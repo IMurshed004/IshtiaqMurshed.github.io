@@ -197,12 +197,14 @@ nav ul li a:hover {
   display: flex;
   color: aliceblue;
   height: 90vh;
+  width: 100%;
 }
 .section_one h1{
   font-size: 300%;
 }
-.section_one .one, .section_one .two{
+.section_one .one{
   background-color: #1f1f1f;
+  width: 100%;
 }
 .section_one .one{
   padding: 80px 0px 0px 30px;
